@@ -8,6 +8,7 @@ function App(){
         <div className="app-wrapper">
         <Header />
         <Services />
+        <Main/>
         <Footer />
         </div>
     );
